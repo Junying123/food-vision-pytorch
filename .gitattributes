@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/User/food-vision-pytorch/models filter=lfs diff=lfs merge=lfs -text
