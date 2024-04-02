@@ -2,6 +2,9 @@ from typing import List, Tuple
 
 from PIL import Image
 
+# Set device
+device = "cuda" if torch.cuda.is_available() else "cpu"
+
 # 1. Take in a trained model, class names, image path, image size, a transform and target device
 def pred_and_plot_image(model: torch.nn.Module,
                         image_path: str,
