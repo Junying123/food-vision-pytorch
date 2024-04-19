@@ -1,6 +1,8 @@
 food-vision-pytorch
-Model Deployment
+## Model Deployment
+
 Gareth0320/foodvision_big : https://huggingface.co/spaces/Gareth0320/foodvision_big
+
 Gareth0320/foodvision_mini : https://huggingface.co/spaces/Gareth0320/foodvision_mini 
 
 ![Screenshot 2024-04-10 041006](https://github.com/Junying123/food-vision-pytorch/assets/92530725/b2b854d1-e41f-4ee8-b568-c050bd2cb8a1)
