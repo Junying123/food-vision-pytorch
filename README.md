@@ -22,7 +22,7 @@ Expanded to "Food Vision Big", deploying a model capable of predicting 100 class
 # Usage
 Interactive demos are available at:
 
-## Food-Vision-PytorchModel Deployment
+### Food-Vision-PytorchModel Deployment
 
 Gareth0320/foodvision_big : https://huggingface.co/spaces/Gareth0320/foodvision_big
 
