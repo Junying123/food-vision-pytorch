@@ -1,7 +1,7 @@
 # Food Vision Project Overview
 This project, leveraging PyTorch, applies deep learning models for image classification of food items, focusing on three classes: pizza, steak, and sushi. Starting with a baseline model using TinyVGG on 10% of the Food101 dataset, the project evolved to incorporate transfer learning with EfficientNet models, improving accuracy and confidence in predictions.
 
-Experimentation and Model Evolution
+### Experimentation and Model Evolution
 1. Initial Setup:
 Base model: TinyVGG.
 Dataset: 10% of Food101, classes limited to pizza, steak, sushi.
